@@ -1,0 +1,9 @@
+.image img {
+  height: 600px;
+  width: 93%;
+  object-fit: cover;
+}
+.smaller {
+  font-size: 14px;
+  line-height: 40px;
+}

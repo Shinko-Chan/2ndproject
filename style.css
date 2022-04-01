@@ -1,0 +1,48 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html {
+  scroll-behavior: smooth;
+}
+ul {
+  padding: 40px;
+  padding-top: 0;
+}
+.image img {
+  height: 600px;
+  width: 100%;
+  object-fit: cover;
+}
+.logo img {
+  width: 203px;
+  height: 203px;
+}
+img {
+  width: 300px;
+  height: 200px;
+  object-fit: cover;
+  margin: 5px;
+}
+table {
+  border: 2px solid black;
+  margin: 5px;
+  padding: 10px;
+}
+td {
+  padding: 5px;
+}
+tr {
+  padding: 5px;
+}
+.bold {
+  font-weight: bold;
+}
+h1,
+h2,
+h3,
+p,
+form {
+  margin: 5px;
+}
